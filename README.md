@@ -1,20 +1,18 @@
-# 📊 Data Analytics using SQL
+# 📊 Data Analysis using SQL
+
+Navigate to project analysis report [here](https://github.com/Aditya-galaxy/Cohort_Retention_Analysis/tree/main/8_Project)
 
 ## 1. Pivot With Case Statements
 
 - [Basic Aggregation](1_Pivot_With_Case_Statements/1_Basic_Aggregation.ipynb)  
-  <br><img src="Resources/images/1.1_customer_continent.png" alt="Customer Continent" width="350"/>
 - [Statistical Aggregations](1_Pivot_With_Case_Statements/2_Statistical_Aggregations.ipynb)  
-  <br><img src="Resources/images/1.2_category_median.png" alt="Category Median" width="350"/>
 - [Advanced Segmentation](1_Pivot_With_Case_Statements/3_Advanced_Segmentation.ipynb)  
-  <br><img src="Resources/images/1.3_Rev_Spread_100.png" alt="Revenue Spread" width="350"/>
 
 ## 2. Date Time
 
 - [Date Format](2_Date_Time/1_Date_Format.ipynb)
 - [Date Filtering](2_Date_Time/2_Date_Filtering.ipynb)
 - [Date Differences](2_Date_Time/3_Date_Differences.ipynb)  
-  <br><img src="Resources/images/2.1_monthly_customers.png" alt="Monthly Customers" width="350"/>
 
 ## 3. Windows Functions
 
